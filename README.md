@@ -1,4 +1,5 @@
 # PrivacyPolicy
-Конфиденциальность является важным аспектом для нашей игры. Мы уважаем личную информацию наших игроков и не собираем никакой информации без их согласия. Мы также не передаем информацию третьим лицам без явного разрешения наших игроков.
 
-Мы строго следим за соблюдением всех законов и норм, касающихся конфиденциальности и защиты данных. Наша игра прилагает все усилия, чтобы обеспечить безопасность и конфиденциальность информации, которую мы храним.
+Privacy is an important aspect for our game. We respect the personal information of our players and do not collect any information without their consent. We also do not share information with third parties without the explicit permission of our players.
+
+We strictly monitor compliance with all laws and regulations related to privacy and data protection. Our game makes every effort to ensure the security and confidentiality of the information we store.
